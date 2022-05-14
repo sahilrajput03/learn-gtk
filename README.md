@@ -1,4 +1,4 @@
-# Learn Gtk
+#Learn Gtk
 
 Source: [Gtk - Getting Started](https://docs.gtk.org/gtk4/getting_started.html)
 
@@ -22,13 +22,13 @@ Source: [Gtk - Getting Started](https://docs.gtk.org/gtk4/getting_started.html)
 - Watch for files while building gtk app -
 
   ```bash
-    # Use gmon to watch for gtk building
+#Use gmon to watch for gtk building
     gmon filename.c
 
-    #type gmon
-    #Output
+#type gmon
+#Output
     gtkmon ()
     {
-      nodemon - w "$@" - x "gcc -o .binary $@ `pkg-config --cflags --libs gtk4` && ./.binary"
+  nodemon - w "$@" - x "gcc -o .binary $@ `pkg-config --cflags --libs gtk4` && ./.binary"
     }
   ```
