@@ -1,0 +1,9 @@
+---
+Language: Cpp
+ReflowComments: false
+ColumnLimit: 100
+---
+Language: ObjC
+BasedOnStyle: Chromium
+ReflowComments: false
+# Look for options @ https://clang.llvm.org/docs/ClangFormatStyleOptions.html
