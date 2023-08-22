@@ -1,6 +1,7 @@
-#Learn Gtk
+# Learn Gtk
 
-Source: [Gtk - Getting Started](https://docs.gtk.org/gtk4/getting_started.html)
+- **TODO: GTK Development with Javascript | Official Docs:** [Click here](https://www.gtk.org/docs/language-bindings/javascript)
+- Source: [Gtk - Getting Started](https://docs.gtk.org/gtk4/getting_started.html)
 
 **Install `gtk4`**
 
